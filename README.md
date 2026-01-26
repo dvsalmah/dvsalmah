@@ -50,3 +50,9 @@ I'm <strong>Dealova Nabila.</strong> I enjoys building things and exploring how 
    <!-- <img src="https://github-readme-stats.vercel.app/api?username=dvsalmah&show_icons=true&theme=jolly&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvsalmah&layout=compact&theme=jolly&hide_border=true" alt="Top Languages" height="170"/> -->
    <img src="https://streak-stats.demolab.com?user=dvsalmah&theme=cobalt&hide_border=true&border_radius=2&date_format=j%20M%5B%20Y%5D&card_width=300&card_height=170&hide_current_streak=true" alt="GitHub Streak" />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dvsalmah/dvsalmah/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dvsalmah/dvsalmah/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dvsalmah/dvsalmah/output/pacman-contribution-graph.svg">
+</picture>
