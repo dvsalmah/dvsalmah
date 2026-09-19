@@ -1,58 +1,31 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1500&color=FA62D6&background=00000000&vCenter=true&random=false&width=750&height=35&lines=Hey+There,+Glad+You're+Here!;Currently+Learning+and+Building;Improving+Step+by+Step🧩)](https://git.io/typing-svg)
-
-I'm <strong>Dealova Nabila.</strong> I enjoys building things and exploring how ideas turn into working solutions. Curious by nature, learning through experimentation and iteration.
-
-## 🌐 Socials
-<a href="https://instagram.com/dnabs_" target="_blank">
-  <img
-    src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"
-    alt="Instagram"
-  />
-</a>
-<a href="https://linkedin.com/in/dealova-ns" target="_blank">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-<a href="mailto:dealovasalmah12@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"
-    alt="Email"
-  />
-</a>
-<a href="">
-   <img
-       src="https://komarev.com/ghpvc/?username=dvsalmah&color=FA62D6&label=Visitors+Here&style=flat"
-       alt="Visitor"
-     />
-</a>
-
-## 💻 Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Shadcn](https://img.shields.io/badge/shadcn-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
----
-<div align="center">
-   <!-- <img src="https://github-readme-stats.vercel.app/api?username=dvsalmah&show_icons=true&theme=jolly&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvsalmah&layout=compact&theme=jolly&hide_border=true" alt="Top Languages" height="170"/> -->
-   <img src="https://streak-stats.demolab.com?user=dvsalmah&theme=cobalt&hide_border=true&border_radius=2&date_format=j%20M%5B%20Y%5D&card_width=300&card_height=170&hide_current_streak=true" alt="GitHub Streak" />
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dvsalmah/dvsalmah/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dvsalmah/dvsalmah/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dvsalmah/dvsalmah/output/pacman-contribution-graph.svg">
 </picture>
+
+<div align="center">
+<h3><code>GET /v1/about</code></h3>
+<p>Hi, I'm <b>Dealova</b>. I build functional web applications, design clean interfaces, and solve complex problems with code.</p>
+
+<code><img width="40" src="assets/icons/java.svg" alt="Java"/></code> <code><img width="40" src="assets/icons/python.svg" alt="Python"/></code> <code><img width="40" src="assets/icons/javascript.svg" alt="JavaScript"/></code> <code><img width="40" src="assets/icons/typescript.svg" alt="TypeScript"/></code> <code><img width="40" src="assets/icons/react.svg" alt="React"/></code> <code><img width="40" src="assets/icons/next_js.svg" alt="Next.js"/></code> <code><img width="40" src="assets/icons/tailwind_css.svg" alt="Tailwind CSS"/></code> <code><img width="40" src="assets/icons/shadcn_ui.svg" alt="Shadcn UI"/></code> <code><img width="40" src="assets/icons/framer_motion.svg" alt="Framer Motion"/></code>  
+<code><img width="40" src="assets/icons/laravel.svg" alt="Laravel"/></code> <code><img width="40" src="assets/icons/node_js.svg" alt="Node.js"/></code> <code><img width="40" src="assets/icons/mysql.svg" alt="MySQL"/></code> <code><img width="40" src="assets/icons/supabase.svg" alt="Supabase"/></code> <code><img width="40" src="assets/icons/git.svg" alt="Git"/></code> <code><img width="40" src="assets/icons/visual_studio_code.svg" alt="VS Code"/></code> <code><img width="40" src="assets/icons/linux.svg" alt="Linux"/></code> <code><img width="40" src="assets/icons/fedora.svg" alt="Fedora"/></code> <code><img width="40" src="assets/icons/docker.svg" alt="Docker"/></code>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=dvsalmah&theme=cobalt&hide_border=true&border_radius=2&date_format=j%20M%5B%20Y%5D&card_width=450&card_height=170&hide_current_streak=false" alt="GitHub Streak" />
+
+<h3><code>POST /v1/connect HTTP/1.1</code></h3>
+
+<a href="https://dealovaa.space" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/globe.svg" width="20" height="20" alt="Website" valign="middle" style="filter: invert(1);" /> <code>dealovaa.space</code>
+</a>
+<a href="https://www.linkedin.com/in/dealova-ns" target="_blank" rel="noreferrer">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /><img src="https://cdn.simpleicons.org/linkedin/181717" width="22" height="22" alt="LinkedIn" valign="middle" />
+</picture> <code>Dealova Nabila</code>
+</a>
+<a href="https://www.instagram.com/dnabs_" target="_blank" rel="noreferrer">
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="20" height="20" alt="Instagram" valign="middle"/><code>dnabs_</code>
+</a>
+<a href="mailto:dealovasalmah12@gmail.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="20" height="20" alt="Gmail" valign="middle" /> <code>dealovasalmah12@gmail.com</code>
+</a>
+</div>
